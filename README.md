@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/FaniAnggita](github.com/FaniAnggita)
 
-- 💬 Ask me about **laravel, bootstrap**
+- 💬 Ask me about **laravel, NodeJS**
 
 - 📫 How to reach me **fanianggita2121@gmail.com**
 
