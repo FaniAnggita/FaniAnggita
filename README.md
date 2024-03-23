@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fani Anggita</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🔭 I’m currently student on **Universitas Teknologi Digital Indonesia**
+- 🔭 I’m **Web Developer**
 
-- 🌱 I’m currently learning **vue.js and AWS**
+- 🌱 I’m currently learning **nextJs and AWS**
 
 - 👯 I’m looking to collaborate on **web develoment project**
 
 - 👨‍💻 All of my projects are available at [github.com/FaniAnggita](github.com/FaniAnggita)
 
-- 💬 Ask me about **laravel, NodeJS**
+- 💬 Ask me about **laravel, NodeJS, ReactJS, and NextJS**
 
 - 📫 How to reach me **fanianggita2121@gmail.com**
 
