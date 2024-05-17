@@ -3,8 +3,6 @@
 
 - 🔭 I’m **Web Developer**
 
-- 🌱 I’m currently learning **nextJs and AWS**
-
 - 👯 I’m looking to collaborate on **web develoment project**
 
 - 👨‍💻 All of my projects are available at [github.com/FaniAnggita](github.com/FaniAnggita)
